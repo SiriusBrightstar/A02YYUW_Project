@@ -1,0 +1,5 @@
+/build
+sdkconfig
+/.vscode
+sdkconfig.old
+main/mqtt_details.h

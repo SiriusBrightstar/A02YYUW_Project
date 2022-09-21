@@ -1,0 +1,25 @@
+/**
+ -> @file       mqtt_details.h
+ -> @author     SiriusBrightstar (siriusbrightstar@protonmail.com)
+ -> @brief      Header file to save MQTT Details
+ -> @version    0.1
+ -> @date       2022-09-04
+ ->
+ */
+
+ /* Rename this file as 'mqtt_details.h' */
+
+#ifndef MQTT_DETAILS_H
+#define MQTT_DETAILS_H
+
+#define WIFI_SSID ""
+#define WIFI_PASS ""
+
+#define DEVICE_ID ""
+
+#define MQTT_PORT 1883
+#define MQTT_USER ""
+#define MQTT_PASS ""
+#define MQTT_SERVER ""
+
+#endif
